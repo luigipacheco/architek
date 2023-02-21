@@ -10,7 +10,7 @@ comments: false
 
 - Fabricación aditiva (Impresion 3D)
 - Impresión 3D a gran escala
-- Mquinado de múltiples ejes
+- Maquinado CNC de múltiples ejes
 - Fabricación robótica
 
 ## Diseño y arquitectura computacional
