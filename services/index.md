@@ -6,15 +6,15 @@ date: 2020-03-21
 comments: false
 ---
 
-Welcome to ARCHITEK, a leading company specializing in advanced manufacturing research for the construction industry. Our focus is on additive manufacturing and robotic fabrication, using cutting-edge technology to push the boundaries of what is possible in construction.
+¡Bienvenidos a ARCHITEK! Somos una empresa líder especializada en investigación avanzada de fabricación para la industria de la construcción. Nos enfocamos en la fabricación aditiva y la fabricación robótica, utilizando tecnología de vanguardia para impulsar los límites de lo posible en la construcción.
 
-At Architek, we believe that technology can revolutionize the way we build, and our team of experts is committed to exploring innovative solutions that can drive the industry forward. We work closely with architects, engineers, and designers to develop custom manufacturing processes that push the boundaries of what's possible.
+En Architek, creemos que la tecnología puede revolucionar la forma en que construimos y nuestro equipo de expertos está comprometido en explorar soluciones innovadoras que puedan impulsar la industria hacia adelante. Trabajamos en estrecha colaboración con arquitectos, ingenieros y diseñadores para desarrollar procesos de fabricación personalizados que empujen los límites de lo posible.
 
-Our services include research and development, prototyping, testing, and implementation of advanced manufacturing techniques. We use state-of-the-art equipment, such as 3D printers, robotic arms, and CNC machines, to create complex, efficient, and unique structures with precision and accuracy.
+Nuestros servicios incluyen investigación y desarrollo, prototipado, pruebas e implementación de técnicas avanzadas de fabricación. Utilizamos equipos de última generación, como impresoras 3D, brazos robóticos y máquinas CNC, para crear estructuras complejas, eficientes y únicas con precisión y eficiencia.
 
-Our team is made up of highly skilled professionals with extensive experience in architecture, engineering, and manufacturing. We are passionate about what we do, and we are dedicated to helping our clients achieve their vision and goals.
+Nuestro equipo está compuesto por profesionales altamente capacitados con amplia experiencia en arquitectura, ingeniería y fabricación. Somos apasionados por lo que hacemos y estamos dedicados a ayudar a nuestros clientes a alcanzar su visión y objetivos.
 
-Whether you are looking to explore new manufacturing techniques, reduce costs, improve quality, or increase efficiency, Architek is here to help. Contact us today to learn more about our advanced manufacturing research services and how we can help take your project to the next level.
+Ya sea que esté buscando explorar nuevas técnicas de fabricación, reducir costos, mejorar la calidad o aumentar la eficiencia, Architek está aquí para ayudar. Contáctenos hoy mismo para obtener más información sobre nuestros servicios de investigación avanzada de fabricación y cómo podemos ayudar a llevar su proyecto al siguiente nivel.
 
 ## Advanced Manufacturing
 
