@@ -8,7 +8,7 @@ comments: false
 
 ¡Bienvenidos a ARCHITEK! Somos una empresa líder especializada en investigación avanzada de fabricación para la industria de la construcción. Nos enfocamos en la fabricación aditiva y la fabricación robótica, utilizando tecnología de vanguardia para impulsar los límites de lo posible en la construcción.
 
-En Architek, creemos que la tecnología puede revolucionar la forma en que construimos y nuestro equipo de expertos está comprometido en explorar soluciones innovadoras que puedan impulsar la industria hacia adelante. Trabajamos en estrecha colaboración con arquitectos, ingenieros y diseñadores para desarrollar procesos de fabricación personalizados que empujen los límites de lo posible.
+En Architek, creemos que la tecnología puede revolucionar la forma en que construimos y nuestro equipo de expertos está comprometido en explorar soluciones innovadoras que puedan impulsar la industria hacia adelante. Trabajamos en estrecha colaboración con arquitectos, ingenieros y diseñadores para desarrollar procesos de fabricación personalizados que cuestionen los límites de lo posible.
 
 Nuestros servicios incluyen investigación y desarrollo, prototipado, pruebas e implementación de técnicas avanzadas de fabricación. Utilizamos equipos de última generación, como impresoras 3D, brazos robóticos y máquinas CNC, para crear estructuras complejas, eficientes y únicas con precisión y eficiencia.
 
