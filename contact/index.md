@@ -5,6 +5,8 @@ tags: [contact]
 date: 2020-03-21
 comments: false
 ---
+## contactanos
 
-<center><a href="http://neobrutal.com"><b>Contact us</b></a></center>
+- Da click en alguno de los siguientes medios: 
+
 <center>{% include social-links.html %}</center>
