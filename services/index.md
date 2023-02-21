@@ -16,7 +16,7 @@ Nuestro equipo está compuesto por profesionales altamente capacitados con ampli
 
 Ya sea que esté buscando explorar nuevas técnicas de fabricación, reducir costos, mejorar la calidad o aumentar la eficiencia, Architek está aquí para ayudar. Contáctenos hoy mismo para obtener más información sobre nuestros servicios de investigación avanzada de fabricación y cómo podemos ayudar a llevar su proyecto al siguiente nivel.
 
-## Manufacturación Avanzada
+## Manufactura Avanzada
 
 - Fabricación aditiva (Impresion 3D)
 - Impresión 3D a gran escala
