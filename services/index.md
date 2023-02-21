@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Services
+title: Servicios
 tags: [services]
 date: 2020-03-21
 comments: false
@@ -16,14 +16,14 @@ Nuestro equipo está compuesto por profesionales altamente capacitados con ampli
 
 Ya sea que esté buscando explorar nuevas técnicas de fabricación, reducir costos, mejorar la calidad o aumentar la eficiencia, Architek está aquí para ayudar. Contáctenos hoy mismo para obtener más información sobre nuestros servicios de investigación avanzada de fabricación y cómo podemos ayudar a llevar su proyecto al siguiente nivel.
 
-## Advanced Manufacturing
+## Manufacturación Avanzada
 
-  - Additive manufacturing
-  - Large scale 3D Printing
-  - Multi-Axis milling
-  - Robotic fabrication
+- Fabricación aditiva (Impresion 3D)
+- Impresión 3D a gran escala
+- Mquinado de múltiples ejes
+- Fabricación robótica
 
-## Computational  design & architecture
+## Diseño y arquitectura computacional
 
-  - Design for advanced manufacturing consulting 
-  - Parametric and generative design
+Consultoría de diseño para fabricación avanzada
+Diseño paramétrico y generativo
